@@ -1,0 +1,11 @@
+{
+  "name": "controlacceso",
+  "version": "1.0.0",
+  "description": "Servidor que registra la identificacion de un dispositivo Biometrico Nano y de acuerdo a ciertas especificaciones permite el ingreso a una bodega",
+  "main": "Servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Ferney Medina Serrato",
+  "license": "ISC"
+}
